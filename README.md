@@ -1,2 +1,2 @@
 # infomation_fluency
-授業
+ICPCの問題を解きながらアルゴリズムを学ぶ
